@@ -3,7 +3,7 @@ title: "Regina Pascua Berba, MD, MSc, FPCP, FPSMID"
 ---
 
 ::: {layout-ncol="2"}
-![Infectious Disease Specialist](speakers/img/regina_berba.png)
+![Infectious Disease Specialist](img/regina_berba.png)
 
 -   Dr. Berba is an infectious disease specialist, researcher, and Professor at the University of the Philippines College of Medicine. She earned her medical degree from the University of the Philippines, completed her Internal Medicine residency at the Medical College of Pennsylvania, a fellowship in Infectious Diseases, and a Master of Science in Clinical Epidemiology from the University of the Philippines Manila.
 -   She previously served as Head of the Philippine General Hospital Hospital Infection Control Unit (HICU), where she led infection prevention and control strategies and helped develop COVID-19 response protocols that informed healthcare institutions nationwide.

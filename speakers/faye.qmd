@@ -3,7 +3,7 @@ title: "Ferissa Ablola-Reparejo, RMicro, MSPH (Medical Microbiology)"
 ---
 
 ::: {layout-ncol="2"}
-![Bacteriologist III](speakers/img/faye_reparejo.jpg)
+![Bacteriologist III](img/faye_reparejo.png)
 
 -   Mrs. Faye earned her Master’s of Science in Public Health degree from the University of the Philippines, Manila. She is currently a Doctor of Philosophy in Education (Biology) candidate.
 -   She is currently part of the Data Management Unit of ARSRL serving as the Digital Epidemiologist and one of the bioinformaticians in the reference lab.  Prior to joining ARSP, she served as an educator in several universities in the country and handled subjects including microbiology and biostatistics and epidemiology.

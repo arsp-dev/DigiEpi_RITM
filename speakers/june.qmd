@@ -3,7 +3,7 @@ title: "June M. Gayeta"
 ---
 
 ::: {layout-ncol="2"}
-![Unit Head - ARSRL Data Management](speakers/img/june_gayeta.png)
+![Unit Head - ARSRL Data Management](img/june_gayeta.png)
 
 -   Mr. June is currently the head of the Data Management Unit of the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL).
 -   With a strong foundation in bioinformatics and data management, he has been instrumental in driving innovations that have transformed the reference lab’s operations. His leadership has been key in the development of efficient workflows and methodologies that streamline the analysis of antimicrobial resistance data, ensuring more efficient and accurate surveillance.

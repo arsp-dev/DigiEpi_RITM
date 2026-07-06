@@ -3,7 +3,7 @@ title: "Charissa Fay Corazon Borja-Tabora, MD, FPPS, FPIDSP"
 ---
 
 ::: {layout-ncol="2"}
-![Head - Infection Prevention and Control Unit (IPCU)](speakers/img/charissa_tabora.png)
+![Head - Infection Prevention and Control Unit (IPCU)](img/charissa_tabora.png)
 
 -   Dr. Tabora is a Medical Specialist III and Head of the Infection Prevention and Control Unit (IPCU) at the Research Institute for Tropical Medicine (RITM). She is a Fellow and Diplomate of the Philippine Pediatric Society and the Pediatric Infectious Disease Society of the Philippines. 
 -   She leads infection prevention and control (IPC) programs, healthcare epidemiology initiatives, and capacity-building activities for healthcare facilities nationwide, including training programs under the Asian Pacific Society of Infection Control (APSIC). 
