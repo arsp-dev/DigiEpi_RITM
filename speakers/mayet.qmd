@@ -1,0 +1,12 @@
+---
+title: "Marietta L. Lagrada, RMT"
+---
+
+::: {layout-ncol="2"}
+![Unit Head - ARSRL Laboratory](speakers/img/mayet_Lagrada.jpg)
+
+-   Mrs. Mayet is a Medical Technologist V and Laboratory Supervisor at the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL), Research Institute for Tropical Medicine (RITM), with nearly four decades of experience in microbiology and antimicrobial resistance surveillance.
+-   She has led the strengthening of the Philippine Antimicrobial Resistance Surveillance Program (ARSP) by establishing bacteriology laboratories in more than 30 sentinel sites nationwide and advancing laboratory quality systems and genomic surveillance through Whole Genome Sequencing (WGS).
+-   She has co-authored numerous publications on antimicrobial resistance, genomic surveillance, and bacterial pathogens, contributing significantly to the advancement of AMR surveillance and laboratory capacity in the Philippines.
+
+:::

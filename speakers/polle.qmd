@@ -1,0 +1,13 @@
+---
+title: "Polle Krystle V. Macaranas, RMT, DMM, DIH"
+---
+
+::: {layout-ncol="2"}
+![Senior Science Research Specialist](speakers/img/polle_macaranas.png)
+
+-   Ms. Polle is a Senior Science Research Specialist and a long-serving member of the technical staff at the Antimicrobial Resistance (AMR) Surveillance Reference Laboratory (ARSRL) of the Research Institute for Tropical Medicine (RITM).
+-   She is part of the laboratory's genomics and surveillance team, with expertise in Whole Genome Sequencing (WGS) of antimicrobial-resistant bacterial pathogens to support antimicrobial resistance surveillance, outbreak investigations, and research. 
+-   She is actively involved in One Health initiatives that promote the integration of human, animal, and environmental health approaches to address antimicrobial resistance and strengthen national surveillance efforts.
+
+
+:::
