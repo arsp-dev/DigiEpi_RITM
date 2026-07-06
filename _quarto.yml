@@ -43,7 +43,7 @@ website:
         href: https://www.arsp.com.ph
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2024, Antimicrobial Resistance Surveillance Reference Laboratory"
+    left: "&copy; Copyright 2026, Antimicrobial Resistance Surveillance Reference Laboratory"
 
 format:
   html:

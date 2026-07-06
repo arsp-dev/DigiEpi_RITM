@@ -2,12 +2,4 @@
 title: "2026 Digital Epidemiology Workshop"
 ---
 
-<center>
-
-<video controls autoplay="true" width="800" height="500">
-
-![](images/DigiEpi%202026%20-%20Logo%20Animation.gif){fig-align="center"}
-
-</video>
-
-</center>
+![](images/DigiEpi%202026%20-%20Logo%20Animation.gif){fig-align="left" width="1000"}
