@@ -3,13 +3,19 @@ title: "Meet the Resource Speakers"
 ---
 
 ::: {layout-nrow="2"}
-[![Emmanuelle Kumaran, MSc](img/emma_cgps.jpg){width="430"}](speakers/emma.qmd)
+[![Charissa Fay Corazon Borja-Tabora, MD, FPPS, FPIDSP](speakers/img/charissa_tabora.png){width="430"}](speakers/emma.qmd)
 
-[![Georgina Lewis-Woodhouse, MRes](img/georgie_cgps.jpg){width="430"}](speakers/georgie.qmd)
+[![Regina Pascua Berba, MD, MSc, FPCP, FPSMID](speakers/img/regina_berba.jpg){width="430"}](speakers/georgie.qmd)
 
-[![Sonia B. Sia, MD, FPAFP, FPSP, MPM](speakers/img/docsonia_ritm.png){width="430"}](speakers/sonia.qmd)
+[![Sonia B. Sia, MD, FPAFP, FPSP, MPM](speakers/img/sonia_sia.png){width="430"}](speakers/sonia.qmd)
 
-[![June M. Gayeta](speakers/img/sirjune_ritm.png){width="430"}](speakers/june.qmd)
+[![Pamela T. Tan, MD](speakers/img/pam_tan.png){width="430"}](speakers/sonia.qmd)
 
-[![Ferissa Ablola, RMicro, MSPH](img/maamfaye_ritm.jpg){width="430"}](speakers/faye.qmd)
+[![June M. Gayeta](speakers/img/june_gayeta.png){width="430"}](speakers/june.qmd)
+
+[![Ferissa B. Ablola-Reparejo, RMicro, MSPH](speakers/img/faye_reparejo.jpg){width="430"}](speakers/faye.qmd)
+
+[![Marietta L. Lagrada, RMT](speakers/img/mayet_Lagrada.jpg){width="430"}](speakers/june.qmd)
+
+[![Polle Krystle V. Macaranas, RMT, DMM, DIH](speakers/img/polle_macaranas.png){width="430"}](speakers/faye.qmd)
 :::
