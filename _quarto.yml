@@ -47,7 +47,7 @@ website:
 
 format:
   html:
-    theme: united
+    theme: vapor
     page-layout: full
     toc: true
 

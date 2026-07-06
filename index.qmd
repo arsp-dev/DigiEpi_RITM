@@ -6,7 +6,7 @@ title: "2026 Digital Epidemiology Workshop"
 
 <video controls autoplay="true" width="800" height="500">
 
-<source src="videos/TRAILER - fhi360.mp4">
+![](images/DigiEpi%202026%20-%20Logo%20Animation.gif){fig-align="center"}
 
 </video>
 
