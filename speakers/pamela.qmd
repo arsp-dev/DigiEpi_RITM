@@ -1,5 +1,5 @@
 ---
-title: "Pamela T. Tan, MD"
+title: "Pamela T. Tan, MD, DPPS, DPIDSP"
 ---
 
 ::: {layout-ncol="2"}

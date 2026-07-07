@@ -9,11 +9,11 @@ title: "Meet the Resource Speakers"
 
 [![Sonia B. Sia, MD, FPAFP, FPSP, MPM](speakers/img/sonia_sia.png){width="430"}](speakers/sonia.qmd)
 
-[![Pamela T. Tan, MD](speakers/img/pam_tan.png){width="430"}](speakers/pamela.qmd)
+[![Pamela T. Tan, MD, DPPS, DPIDSP](speakers/img/pam_tan.png){width="430"}](speakers/pamela.qmd)
 
 [![June M. Gayeta](speakers/img/june_gayeta.png){width="430"}](speakers/june.qmd)
 
-[![Ferissa B. Ablola-Reparejo, RMicro, MSPH](speakers/img/faye_reparejo.png){width="430"}](speakers/faye.qmd)
+[![Ferissa B. Ablola-Reparejo, RMicro, MSPH, PhD (Cand.)](speakers/img/faye_reparejo.png){width="430"}](speakers/faye.qmd)
 
 [![Marietta L. Lagrada, RMT](speakers/img/mayet_lagrada.png){width="430"}](speakers/mayet.qmd)
 

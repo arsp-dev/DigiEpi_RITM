@@ -1,5 +1,5 @@
 ---
-title: "Ferissa Ablola-Reparejo, RMicro, MSPH (Medical Microbiology)"
+title: "Ferissa B. Ablola-Reparejo, RMicro, MSPH, PhD (Cand.)"
 ---
 
 ::: {layout-ncol="2"}
