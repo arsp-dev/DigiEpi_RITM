@@ -3,10 +3,6 @@ title: "Meet the Resource Speakers"
 ---
 
 ::: {layout-nrow="2"}
-[![Charissa Fay Corazon Borja-Tabora, MD, FPPS, FPIDSP](speakers/img/charissa_tabora.png){width="430"}](speakers/tabora.qmd)
-
-[![Regina Pascua Berba, MD, MSc, FPCP, FPSMID](speakers/img/regina_berba.png){width="430"}](speakers/berba.qmd)
-
 [![Sonia B. Sia, MD, FPAFP, FPSP, MPM](speakers/img/sonia_sia.png){width="430"}](speakers/sonia.qmd)
 
 [![Pamela T. Tan, MD, DPPS, DPIDSP](speakers/img/pam_tan.png){width="430"}](speakers/pamela.qmd)
