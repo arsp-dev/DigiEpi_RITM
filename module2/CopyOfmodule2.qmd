@@ -1,0 +1,53 @@
+---
+title: "UNIT 2 - WHONET SaTScan Analysis: Configuration, Analaysis, and Interpretation"
+---
+
+# ![](images/clipboard-2331131156.png){width="37" height="35"}**OUTLOOK**
+
+Unit 2 enumerates the step-by -step procedure on running the SaTScan analysis. At the end of this unit, the participants shall be able to:
+
+- understand the significance of site-specific resistance profile configuration;
+
+- perform the SaTScan analysis using real surveillance data;
+
+- be familiar with the SaTScan output and be able to interpret the parameters.
+
+# ![](images/clipboard-2742305045.png){width="37"}**LESSON PROPER**
+
+**SaTScan**™ is a free software that analyzes spatial, temporal and space-time data using the spatial, temporal, or space-time scan statistics. It is designed for any of the following interrelated purposes:
+
+- Perform geographical surveillance of disease, to detect spatial or space-time disease clusters, and to see if they are statistically significant.
+
+- Test whether a disease is randomly distributed over space, over time or over space and time.
+
+- Evaluate the statistical significance of disease cluster alarms.
+
+- Perform repeated time-periodic disease surveillance for early detection of disease outbreaks *(e.g ARSRL WGS and SaTScan Enhanced Outbreak Investigation)*
+
+### **Laboratory Configuration**
+
+In the Philippines, the Antimicrobial Resistance Surveillance Program (ARSP) has been essential in tracking AMR trends for more than three decades. The program's annual reports provided critical data that guide national policies to combat AMR, focusing on prevalent bacterial pathogens. Some variations in the antimicrobial panels tested across sentinel sites possibly due to differing circumstances of each laboratory may have an impact on the quality and robustness of the national AMR surveillance data likewise in the detection of isolate clusters that can signal an investigation for a potential outbreak, thus a site-specific resistance profile configuration is recommended to obtain a more complete and reliable cluster detection results. The work instruction below describes the step-by-step process of setting up the resistance profile configuration.
+
+1.  DMU staffruns the SaTScan analysis on a weekly basis. Every Friday of the week**,** daily data transfer from    sentinel sites were collated. Only the sentinel site with the updated data submission for the current month will be included in the analysis.
+
+2.  DMU staff creates a folder of raw database file per month per laboratory/ sentinel site for the previous analysis years plus the most recent daily submission of the site.
+
+3.  DMU staff creates a laboratory for each Sentinel Site with a unique laboratory configuration in the WHONET 2026 software: 
+
+## 
+
+## **BRAINWORK**
+
+To learn and explore more on the advanced features of Epicollect5, click on the link below:
+
+<https://docs.epicollect.net/>
+
+## ![](images/clipboard-2057582273.png){width="37"}**FLICK**
+
+For your further reading, the following journal articles below utilized Epicollect5 as their main data collection tool.
+
+| **Study Title** | Author/s | DOI |
+|:--------------------------------------|:---------------|:---------------|
+| The unseen use of antimicrobials: Drivers of human antibiotic use in a community in Thailand and implications for surveillance | Alhusein et al. 2024 | <https://doi.org/10.1080/17441692.2023.2298940> |
+| Antibiotic dispensing practices during COVID-19 and implications for antimicrobial resistance (AMR): parallel mystery client studies in Uganda and Tanzania | Olamijuwon et al. 2023 | <https://doi.org/10.1186/s13756-022-01199-4> |
+| Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA) | Asiimwe et al. 2021 | <https://doi.org/10.1136/bmjopen-2020-041418> |

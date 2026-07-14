@@ -21,8 +21,6 @@ website:
           - module1/module1.qmd
           - module2/module2.qmd
           - module3/module3.qmd
-          - module4/module4.qmd
-          - module5/module5.qmd
       - text: Workshop Materials
         menu:
           - href: https://microreact.org/project/kpn-digiepi-fhi360

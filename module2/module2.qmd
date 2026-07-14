@@ -1,69 +1,45 @@
 ---
-title: "UNIT 2 - Digital Epidemiology Tool: EPICOLLECT"
+title: "UNIT 2 - WHONET SaTScan Analysis: Configuration, Analysis, and Interpretation"
 ---
 
-# ![](images/clipboard-2331131156.png){width="37" height="35"}**OUTLOOK**
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0010.jpg)
 
-At the end of this unit, the participants shall be able to:
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0011.jpg)
 
--   recognize the key features and uses of Epicollect5; and
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0012.jpg)
 
--   encode and submit data on the digital data collection platform
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0013.jpg)
 
-# ![](images/clipboard-2742305045.png){width="37"}**LESSON PROPER**
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0014.jpg)
 
-The **Centre for Genomic Pathogen Surveillance (CGPS)** develops free web applications for data collection, integration, visualization, and analysis of genomic epidemiology data. Epicollect5 is a mobile & web application for free and easy data collection. It provides both the web and mobile applications for the generation of forms (questionnaires) and freely hosted project websites for data collection. Projects are created by using the web application at five.epicollect.net, and then downloaded to the device to perform the data collection. Data are collected in the field using multiple devices and all data can be viewed on a central server (via map, tables, and charts).
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0015.jpg)
 
-### **Where to Download Epicollect5 Mobile Application?**
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0016.jpg)
 
--   ***Android -*** This app support phones and tablets on Android 5.1 and onwards. [Download it from the Play Store](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB&pli=1).
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0017.jpg)
 
--   ***iOS -*** This app support iPhones and iPads with iOS 14+. Download it from the App Store.
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0018.jpg)
 
-### **Creation of Project in Epicollect5**
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0019.jpg)
 
-In Epicollect5, a project refers to a structured and organized collection of data that revolves around a specific goal, task, or study. It’s a fundamental concept within the Epicollect5 platform, which is designed for data collection and management. A project in Epicollect5 typically includes the following components:
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0020.jpg)
 
-1.  ***Form (s)***: A form defines the data fields and structure for collecting information. You design the form to capture specific types of data relevant to your project, such as text, numbers, dates, images, and more.
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0021.jpg)
 
-2.  ***Entries**:* Entries are the individual records or instances of data collected using the form. Each time you gather data, it results in a new entry within the project.
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0022.jpg)
 
-3.  ***Project Settings***: These settings allow you to configure various aspects of the project, such as its name, description, access permissions, and more.
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0023.jpg)
 
-4.  ***Data Visualization***: Epicollect5 provides tools for visualizing and analyzing the collected data.
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0024.jpg)
 
-5.  ***Collaboration**:* Users are able to collaborate with other users on the same project, enabling multiple people to contribute data.
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0025.jpg)
 
-6.  ***Data Export***: The ability to export the collected data for further analysis is a crucial feature. Epicollect5 projects usually allow you to export data in various formats, such as CSV or JSON.
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0026.jpg)
 
-Epicollect5 is often used for research, fieldwork, surveys, environmental monitoring, and other data collection tasks. The concept of a project helps you organize and manage the data you collect, making it easier to focus on your specific data collection objectives.
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0027.jpg)
 
-### **Creation of Form in Epicollect5**
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0028-01.jpg)
 
-Epicollect5 provides an intuitive and easy to use drag & drop form builder. Currently, Epicollect5 allows a maximum of **300** questions per a single form, and a maximum number of **5** linked (hierarchy) forms.
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0029.jpg)
 
-The form builder features a three columns layout:
-
--   *Left column*: the available inputs
-
--   *Middle column*: the inputs added to each form
-
--   *Right column*: the currently selected input settings
-
-![](images/clipboard-2110467051.png){fig-align="center" width="744"}
-
-## ![](images/clipboard-3020951424.png){width="37"}**BRAINWORK**
-
-To learn and explore more on the advanced features of Epicollect5, click on the link below:
-
-<https://docs.epicollect.net/>
-
-## ![](images/clipboard-2057582273.png){width="37"}**FLICK**
-
-For your further reading, the following journal articles below utilized Epicollect5 as their main data collection tool.
-
-| **Study Title** | Author/s | DOI |
-|:-----------------------------------------|:--------------|:--------------|
-| The unseen use of antimicrobials: Drivers of human antibiotic use in a community in Thailand and implications for surveillance | Alhusein et al. 2024 | <https://doi.org/10.1080/17441692.2023.2298940> |
-| Antibiotic dispensing practices during COVID-19 and implications for antimicrobial resistance (AMR): parallel mystery client studies in Uganda and Tanzania | Olamijuwon et al. 2023 | <https://doi.org/10.1186/s13756-022-01199-4> |
-| Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA) | Asiimwe et al. 2021 | <https://doi.org/10.1136/bmjopen-2020-041418> |
+![](images/Digital%20Epidemiology%20Workshop%20Module_2026_page-0030.jpg)
