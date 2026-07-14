@@ -26,6 +26,10 @@ website:
           - pre_test/pre_test.qmd
           - post_test/post_test.qmd
           - quick_guide.qmd
+          - href: https://drive.google.com/file/d/1rKz3pkomDnZwkpRww6HTpRsTZdBCctYu/view?usp=sharing
+            text: Worksheet - SatScan
+          - href: https://drive.google.com/file/d/1zNlN7iH8Kju3EclBB9S8FQvdPXw-5Hqj/view?usp=sharing
+            text: Worksheet - Epicollect
           - evaluation.qmd
       - href: https://forms.gle/oBJVAtp1y2dhJrTMA
         text: Got a question?

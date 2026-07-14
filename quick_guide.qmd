@@ -6,14 +6,3 @@ title: "Quick Guide Videos"
 
 ![](videos/quick_guide_Epicollect5.mp4)
 
-## Pathogenwatch
-
-![](videos/quick_guide_Pathogenwatch.mp4)
-
-## Data-Flo
-
-![](videos/quick_guide_Data_Flo.mp4)
-
-## Microreact
-
-![](videos/quick_guide_Microreact.mp4)
