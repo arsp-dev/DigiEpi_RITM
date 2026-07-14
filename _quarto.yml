@@ -23,17 +23,11 @@ website:
           - module3/module3.qmd
       - text: Workshop Materials
         menu:
-          - href: https://microreact.org/project/kpn-digiepi-fhi360
-            text: Microreact Project
-          - microreact_activity.qmd
           - pre_test/pre_test.qmd
           - post_test/post_test.qmd
           - quick_guide.qmd
-          - href: https://docs.google.com/presentation/d/13WKHbPePIpBzmgAj1pEuWgUTvM5AqRP0/edit?usp=sharing&ouid=117291094937849279180&rtpof=true&sd=true
-            text: Concept Note Template
-          - mentimeter.qmd
           - evaluation.qmd
-      - href: https://9lzm79dg.forms.app/got-a-question-form
+      - href: https://forms.gle/oBJVAtp1y2dhJrTMA
         text: Got a question?
           
     tools:
