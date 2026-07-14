@@ -2,6 +2,6 @@
 title: "Agenda"
 ---
 
-The detailed agenda can be found [here.](https://drive.google.com/file/d/1u7rCajK77TMPv_8XxYbKh4K2-u5vYh-u/view?usp=sharing)
+The detailed agenda can be found [here.](https://drive.google.com/file/d/1M1Q37UWL02IMOuhckUKXDabmPr11fYU9/view?usp=sharing)
 
 ![Workflow of SaTScan and Whole Genome Sequencing for Enhanced Outbreak Investigation](img/wgs_workflow.png){fig-align="center"}
