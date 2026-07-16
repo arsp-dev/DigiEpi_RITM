@@ -25,7 +25,7 @@ website:
         menu:
           - href: https://docs.google.com/forms/d/e/1FAIpQLSdqR4VWA2ObNF2FooQRYpBKONavH5tu-kcXgjtHuO-Wu-An2w/viewform?usp=header
             text: Pre-test
-          - href: https://docs.google.com/forms/d/e/1FAIpQLSdqR4VWA2ObNF2FooQRYpBKONavH5tu-kcXgjtHuO-Wu-An2w/viewform?usp=header
+          - href: https://forms.gle/w48tj4CMvfXdoELa7
             text: Post-test
           - quick_guide.qmd
           - href: https://drive.google.com/file/d/1rKz3pkomDnZwkpRww6HTpRsTZdBCctYu/view?usp=sharing
