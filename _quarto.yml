@@ -23,9 +23,9 @@ website:
           - module3/module3.qmd
       - text: Workshop Materials
         menu:
-          - href: https://forms.gle/MdbHdcAYR5QdEYi97
+          - href: https://tinyurl.com/bdzbcnjn
             text: Pre-test
-          - href: https://forms.gle/MdbHdcAYR5QdEYi97
+          - href: https://tinyurl.com/bdzbcnjn
             text: Post-test
           - quick_guide.qmd
           - href: https://drive.google.com/file/d/1rKz3pkomDnZwkpRww6HTpRsTZdBCctYu/view?usp=sharing
